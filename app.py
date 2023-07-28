@@ -3,7 +3,7 @@ import telebot
 import os
 
 # Token de acesso do bot do Telegram
-token = 'SEU_TOKEN_AQUI'
+token = '6103231923:AAH1sxXKyQMZrwbrjT9VsL5coUK7OD24qT4'
 
 # Cria uma nova instância do bot
 bot = telebot.TeleBot(token)
